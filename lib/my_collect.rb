@@ -6,4 +6,3 @@ def my_collect(array)
   end
   languages
 end
-end
